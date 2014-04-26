@@ -43,7 +43,7 @@
   "dependencies": {
     "bower-resolve": "0.1.0",
     "bower": "~1.2.7",
-    "browserify": "~2.35.1",
+    "browserify": "^3.44.2",
     "browserify-shim": "~2.0.8",
     "extend": "~1.2.1"
   }
