@@ -41,8 +41,8 @@
     "gruntplugin"
   ],
   "dependencies": {
-    "bower-resolve": "0.1.0",
-    "bower": "~1.2.7",
+    "bower-resolve": "^2.2.0",
+    "bower": "^1.3.2",
     "browserify": "~2.35.1",
     "browserify-shim": "~2.0.8",
     "extend": "~1.2.1"
